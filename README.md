@@ -18,3 +18,23 @@ This app allows users to add, complete, and delete tasks, with persistence using
 - 🎨 Clean and responsive UI with **Poppins font**
 
 ---
+
+⚙️ How It Works
+
+Type your task in the input box and press Enter or submit.
+
+Left Click a task → Toggle completed ✅
+
+Right Click a task → Delete it ❌
+
+Data is stored in localStorage, so tasks remain after page reload.
+
+🎨 Screenshots
+
+🛠️ Built With
+
+HTML5
+
+CSS3
+
+JavaScript (ES6)
